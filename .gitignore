@@ -1,0 +1,13 @@
+# ไฟล์ที่ compile แล้ว
+*.exe
+*.o
+*.out
+a.out
+
+# ไฟล์ของ extension Competitive Programming Helper (เก็บ test case ในเครื่อง)
+.cph/
+
+# อื่น ๆ
+.vscode/
+input.txt
+output.txt
